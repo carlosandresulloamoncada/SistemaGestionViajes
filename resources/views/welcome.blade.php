@@ -40,7 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title">Probando github charcha fail</div>
+				<div class="title">Probando github carlos fail</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
 		</div>
