@@ -42,6 +42,7 @@
 			<div class="content">
 				<div class="title">Probando github GG charcha fail</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
+				<div class="quote"><a href="http://146.83.198.35/~icinf2/index.php/auth/login">Ingresar</div>
 			</div>
 		</div>
 	</body>
