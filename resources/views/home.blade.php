@@ -9,6 +9,7 @@
 
 				<div class="panel-body">
 					You are logged in!
+					{{Auth::user()->cargo}}
 				</div>
 			</div>
 		</div>
