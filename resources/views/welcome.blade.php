@@ -40,7 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title">Probando github pac</div>
+				<div class="title">Probando github </div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
 				<div class="quote"><a href="http://146.83.198.35/~icinf2/index.php/auth/login">Ingresar</div>
 			</div>
